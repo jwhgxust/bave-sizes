@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c778811b-2702-43bd-b896-ee7c2932814a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/Placeholder.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bave-sizes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bave-sizes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,29 +18,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="33" column="13" selection-end-line="75" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2276">
-              <caret line="97" column="1" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
-              <folding>
-                <element signature="e#52#226#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,14 +50,14 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/ReadMe.txt" />
         <option value="$PROJECT_DIR$/programs/output/ReadMe.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="302" />
-    <option name="y" value="67" />
+    <option name="x" value="300" />
+    <option name="y" value="65" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -89,6 +66,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,8 +105,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,7 +120,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java/JavaLib/Orson/orsonpdf/v1u8/orsonpdf-1.8.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31029412" />
@@ -279,6 +256,8 @@
       <workItem from="1554181150390" duration="2535000" />
       <workItem from="1554183750443" duration="372000" />
       <workItem from="1554184762997" duration="5937000" />
+      <workItem from="1554211650507" duration="640000" />
+      <workItem from="1554212319152" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary="Create Projects 2019-04-01.">
       <created>1554182034409</created>
@@ -326,9 +305,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DoubleSeriesTest_testConstructor - 2019.04.02 at 16h 23m 45s.xml">
-      <configuration name="DoubleSeriesTest.testConstructor" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DoubleSeriesTest_testConstructor - 2019.04.02 at 16h 24m 19s.xml">
       <configuration name="DoubleSeriesTest.testConstructor" configurationId="JUnit" />
     </history-entry>
@@ -356,22 +332,24 @@
     <history-entry file="DoubleSeriesTest - 2019.04.02 at 16h 37m 11s.xml">
       <configuration name="DoubleSeriesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DoubleSeriesTest - 2019.04.02 at 21h 33m 42s.xml">
+      <configuration name="DoubleSeriesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8844000" />
+    <option name="totallyTimeSpent" value="10261000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2096577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2124665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -381,6 +359,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -522,19 +501,29 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/Placeholder.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="33" column="13" selection-end-line="75" selection-end-column="1" />
+        <state relative-caret-position="384">
+          <caret line="55" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="13" />
+          <folding>
+            <element signature="e#52#226#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt">
+    <entry file="jar://$PROJECT_DIR$/lib/KotlinJavaRuntime/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2276">
-          <caret line="97" column="1" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+        <state relative-caret-position="226">
+          <caret line="140" column="17" selection-start-line="140" selection-start-column="17" selection-end-line="140" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2454">
+          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
           <folding>
-            <element signature="e#52#226#0" expanded="true" />
+            <element signature="e#52#104#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -567,7 +556,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>orsonpdf-1.9</last-edited>
+          <last-edited>orsonpdf-1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -30,6 +30,7 @@ internal class DoubleSeriesTest {
         data[0] = 1.0
         println("data = $data")
         println("ds = $ds")
+
         val data1 = mutableListOf<Double>(Double.NaN, 1.0, Double.NEGATIVE_INFINITY, Double.POSITIVE_INFINITY)
 
         try {
