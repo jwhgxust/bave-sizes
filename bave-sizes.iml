@@ -20,5 +20,6 @@
     <orderEntry type="library" name="jfreesvg-3.4" level="application" />
     <orderEntry type="library" name="orsoncharts-1.7" level="application" />
     <orderEntry type="library" name="orsonpdf-1.9" level="application" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
