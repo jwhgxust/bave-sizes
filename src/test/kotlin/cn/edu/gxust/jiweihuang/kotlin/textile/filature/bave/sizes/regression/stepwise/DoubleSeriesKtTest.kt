@@ -59,4 +59,29 @@ internal class DoubleSeriesKtTest {
     @Test
     fun plus() {
     }
+
+    @Test
+    fun regression() {
+        println(ds - ds.line)
+        println(ds.regression(5, (ds - ds.line)[0], ds.length))
+    }
+
+    @Test
+    fun restore() {
+        println(ds.restore(5, (ds - ds.line)[0], ds.length))
+        println((ds - ds.restore(1, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(2, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(3, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(4, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(5, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(6, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(7, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(8, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(9, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(10, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(11, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(12, (ds - ds.line)[0], ds.length)).sum)
+        println((ds - ds.restore(13, (ds - ds.line)[0], ds.length)).sum)
+        println(ds.length)
+    }
 }

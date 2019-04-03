@@ -42,8 +42,13 @@ fun DoubleSeries.acvf(r: Int, m: Int): Double {
 
 /**
  * autocovariance matrix
+ *
+ * require that {1 <= k < length}
  */
 fun DoubleSeries.acvm(k: Int): RealMatrix {
+    if (k >= length || k < 1) {
+
+    }
     val matrix: RealMatrix = Array2DRowRealMatrix(k, k)
     for (i in 0 until k) {
         for (j in i until k) {
@@ -58,6 +63,8 @@ fun DoubleSeries.acvm(k: Int): RealMatrix {
 
 /**
  * autocovariance vector
+ *
+ * require that {1 <= k < length}
  */
 fun DoubleSeries.acvv(k: Int): RealVector {
     val vector: RealVector = ArrayRealVector(k)
@@ -69,6 +76,8 @@ fun DoubleSeries.acvv(k: Int): RealVector {
 
 /**
  * The coefficients of stepwise autoregression
+ *
+ * require that {1 <= k < length}
  */
 fun DoubleSeries.coefs(k: Int): RealVector {
     return LUDecomposition(acvm(k)).solver.solve(acvv(k))
@@ -80,4 +89,37 @@ operator fun DoubleSeries.plus(ds: DoubleSeries): DoubleSeries {
         makeList.add(get(i) + ds[i])
     }
     return DoubleSeries(makeList)
+}
+
+/**
+ *
+ * require that {1 <= k < length}
+ */
+fun DoubleSeries.regression(k: Int, z0: Double, length: Int): DoubleSeries {
+    val makeList = mutableListOf<Double>()
+    makeList.add(z0)
+    val coef = this.coefs(k)
+    for (i in 1 until length) {
+        if (i <= k) {
+            var makeSum = 0.0
+            for (r in 1..i) {
+                makeSum += coef.getEntry(r - 1) * makeList[i - r]
+            }
+            makeList.add(makeSum)
+        } else {
+            var makeSum = 0.0
+            for (r in 1..k) {
+                makeSum += coef.getEntry(r - 1) * makeList[i - r]
+            }
+            makeList.add(makeSum)
+        }
+    }
+    return DoubleSeries(makeList)
+}
+
+/**
+ * require that {1 <= k < length}
+ */
+fun DoubleSeries.restore(k: Int, z0: Double, length: Int): DoubleSeries {
+    return line + regression(k, z0, length)
 }
