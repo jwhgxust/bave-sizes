@@ -1,6 +1,7 @@
 package cn.edu.gxust.jiweihuang.kotlin.util.series
 
 import java.util.*
+import java.util.function.Consumer
 
 open class DoubleSeriesGroup : Iterable<DoubleSeries> {
     //=================================================
