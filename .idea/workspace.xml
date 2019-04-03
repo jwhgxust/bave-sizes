@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c778811b-2702-43bd-b896-ee7c2932814a" name="Default Changelist" comment="">
+    <list default="true" id="c778811b-2702-43bd-b896-ee7c2932814a" name="Default Changelist" comment="update 2019-04-03.">
+      <change afterPath="$PROJECT_DIR$/literatures/textile/filature/bave/sizses/1998-茧丝纤度曲线的模拟生成_白伦.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/literatures/textile/filature/bave/sizses/1999-模拟茧丝纤度曲线的统计特征_白伦.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/literatures/textile/filature/bave/sizses/2002-茧丝纤度曲线的解析模型及其在模拟缫丝中的应用_白伦.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,37 +86,6 @@
               <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
               <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -146,15 +118,19 @@
       <recent name="cn.edu.gxust.jiweihuang.kotlin.textile.filature.bave.sizes.regression.stepwise" />
       <recent name="cn.edu.gxust.jiweihuang.kotlin.util.series" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\literatures\textile\filature" />
+      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\literatures\textile" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\programs\kotlin\resources" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\resources\sizes\data" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\resources" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\resources" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\kotlin\cn\edu\gxust\jiweihuang\kotlin\textile" />
-      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\kotlin\cn\edu\gxust\jiweihuang\kotlin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,7 +243,7 @@
       <workItem from="1554211650507" duration="640000" />
       <workItem from="1554212319152" duration="1678000" />
       <workItem from="1554333937559" duration="313000" />
-      <workItem from="1554334282983" duration="771000" />
+      <workItem from="1554334282983" duration="1384000" />
     </task>
     <task id="LOCAL-00001" summary="Create Projects 2019-04-01.">
       <created>1554182034409</created>
@@ -388,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554334101862</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update 2019-04-03.">
+      <created>1554335271502</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554335271502</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -424,7 +407,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20690000" />
+    <option name="totallyTimeSpent" value="21303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -466,7 +449,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update 2019-04-03." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/Placeholder.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/gxust/jiweihuang/java/Placeholder.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -769,6 +751,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST10_DTEX_100.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/kotlin/resources/textile/filature/bave/sizes/data/GXHX50_DTEX_100.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
