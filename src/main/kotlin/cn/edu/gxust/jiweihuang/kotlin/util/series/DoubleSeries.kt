@@ -4,7 +4,7 @@ import java.lang.Math.pow
 import java.lang.Math.sqrt
 
 /**
- * The double series is used for representing double numeric sequence with statistics and calculation.
+ * The [DoubleSeries] is used for representing double numeric sequence with statistics and calculation.
  *
  * a [List] with [Double] as closed data container,it is immutable.
  *
@@ -21,7 +21,7 @@ import java.lang.Math.sqrt
  *
  * Create date: 2019-04-01.
  *
- * last revision date: 2019-04-02.
+ * last revision date: 2019-04-03.
  * @property lengthAtLeast The minimum number of elements in series requested by customer.
  * @author Jiwei Huang.
  * @since 1.0.0
@@ -164,7 +164,7 @@ open class DoubleSeries(dataList: List<Double>, val lengthAtLeast: Int = 2) : It
         }
 
     /**
-     * The sum of sguares of deviation from mean of double series.
+     * The sguare sum of deviation from mean of double series.
      */
     val devsq: Double
         get() {
@@ -218,7 +218,7 @@ open class DoubleSeries(dataList: List<Double>, val lengthAtLeast: Int = 2) : It
         get() = sqrt(varip)
 
     /**
-     * The maximum value of double series.
+     * The maximum value in double series.
      */
     val max: Double
         get() {
@@ -232,7 +232,7 @@ open class DoubleSeries(dataList: List<Double>, val lengthAtLeast: Int = 2) : It
         }
 
     /**
-     * The minimum value of double series.
+     * The minimum value in double series.
      */
     val min: Double
         get() {
@@ -246,23 +246,23 @@ open class DoubleSeries(dataList: List<Double>, val lengthAtLeast: Int = 2) : It
         }
 
     /**
-     * The index of maximum value of double series.
+     * The index of maximum value in double series.
      */
     val maxIndex: Int
         get() {
-            for (i in data.indices) {
-                if (data[i] == max) return i
+            for (index in data.indices) {
+                if (data[index] == max) return index
             }
             throw IllegalArgumentException("There is no matching index of maximum value.")
         }
 
     /**
-     * The index of minimum value of double series.
+     * The index of minimum value in double series.
      */
     val minIndex: Int
         get() {
-            for (i in data.indices) {
-                if (data[i] == min) return i
+            for (index in data.indices) {
+                if (data[index] == min) return index
             }
             throw IllegalArgumentException("There is no matching index of minimum value.")
         }
