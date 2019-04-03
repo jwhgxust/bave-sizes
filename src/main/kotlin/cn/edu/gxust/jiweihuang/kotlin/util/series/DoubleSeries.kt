@@ -57,6 +57,8 @@ open class DoubleSeries(dataList: List<Double>, val lengthAtLeast: Int = 2) : It
             throw IllegalArgumentException("Expected the length of parameter {dataList} which has been filter with {Double.isFinite()} is more than or equals to {$lengthAtLeast}, but get {length = $length}")
         }
     }
+
+    constructor(vararg data: Double) : this(data.toList(), 2)
     //==========================================================================================
 
     /**

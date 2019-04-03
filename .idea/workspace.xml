@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c778811b-2702-43bd-b896-ee7c2932814a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeriesKtTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/JiweiHuang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/JiweiHuang.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeries.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +19,63 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeries.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+              <folding>
+                <element signature="e#88#230#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeriesKtTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="31" column="55" selection-end-line="61" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../Java/JavaLib/Hipparchus/V1u4/hipparchus-core-1.4-sources.jar!/org/hipparchus/linear/RealVector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../Java/JavaLib/Hipparchus/V1u4/hipparchus-core-1.4-sources.jar!/org/hipparchus/linear/RealMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10416">
+              <caret line="454" column="6" lean-forward="true" selection-start-line="454" selection-start-column="6" selection-end-line="454" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,15 +100,18 @@
         <option value="$PROJECT_DIR$/programs/output/ReadMe.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesGroup.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/stepwise.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeries.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeriesKtTest.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeriesKtTest.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="300" />
-    <option name="y" value="65" />
+    <option name="x" value="515" />
+    <option name="y" value="421" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -167,35 +222,6 @@
               <item name="regression" type="462c0819:PsiDirectoryNode" />
               <item name="stepwise" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="textile" type="462c0819:PsiDirectoryNode" />
-              <item name="scalar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="textile" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="unit" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -216,8 +242,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CD20190123/KotlinTextile" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31029412" />
@@ -225,17 +251,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.edu.gxust.jiweihuang.kotlin.textile.filature.bave.sizes.regression.stepwise" />
       <recent name="cn.edu.gxust.jiweihuang.kotlin.util.series" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\kotlin\cn\edu\gxust\jiweihuang\kotlin\textile" />
+      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\kotlin\cn\edu\gxust\jiweihuang\kotlin" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\kotlin\cn\edu\gxust\jiweihuang\kotlin\textile" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\kotlin\cn\edu\gxust\jiweihuang\kotlin" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\kotlin\cn\edu\gxust\jiweihuang\kotlin\textile\filature\bave\sizes\regression\stepwise" />
-      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\kotlin\cn\edu\gxust\jiweihuang\kotlin\textile\filature\bave\sizes\regression" />
-      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\kotlin\cn\edu\gxust\jiweihuang\kotlin\textile\filature\bave\sizes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -250,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in bave-sizes (1)">
+  <component name="RunManager" selected="JUnit.DoubleSeriesKtTest.getLine">
     <configuration name="All in bave-sizes (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bave-sizes" />
       <option name="PACKAGE_NAME" value="" />
@@ -259,7 +286,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in bave-sizes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in bave-sizes (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bave-sizes" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -267,48 +294,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleSeriesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in bave-sizes (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bave-sizes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleSeriesKtTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bave-sizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.gxust.jiweihuang.kotlin.util.series.*" />
+          <option name="PATTERN" value="cn.edu.gxust.jiweihuang.kotlin.textile.filature.bave.sizes.regression.stepwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.gxust.jiweihuang.kotlin.util.series" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.gxust.jiweihuang.kotlin.util.series.DoubleSeriesTest" />
+      <option name="PACKAGE_NAME" value="cn.edu.gxust.jiweihuang.kotlin.textile.filature.bave.sizes.regression.stepwise" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.gxust.jiweihuang.kotlin.textile.filature.bave.sizes.regression.stepwise.DoubleSeriesKtTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleSeriesTest.copy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DoubleSeriesKtTest.getLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bave-sizes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.edu.gxust.jiweihuang.kotlin.util.series.*" />
+          <option name="PATTERN" value="cn.edu.gxust.jiweihuang.kotlin.textile.filature.bave.sizes.regression.stepwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.gxust.jiweihuang.kotlin.util.series" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.gxust.jiweihuang.kotlin.util.series.DoubleSeriesTest" />
-      <option name="METHOD_NAME" value="copy" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleSeriesTest.getLengthAtLeast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bave-sizes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.edu.gxust.jiweihuang.kotlin.util.series.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.edu.gxust.jiweihuang.kotlin.util.series" />
-      <option name="MAIN_CLASS_NAME" value="cn.edu.gxust.jiweihuang.kotlin.util.series.DoubleSeriesTest" />
-      <option name="METHOD_NAME" value="getLengthAtLeast" />
+      <option name="PACKAGE_NAME" value="cn.edu.gxust.jiweihuang.kotlin.textile.filature.bave.sizes.regression.stepwise" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.gxust.jiweihuang.kotlin.textile.filature.bave.sizes.regression.stepwise.DoubleSeriesKtTest" />
+      <option name="METHOD_NAME" value="getLine" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -316,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DoubleSeriesKtTest.getLine" />
+        <item itemvalue="JUnit.DoubleSeriesKtTest" />
+        <item itemvalue="JUnit.All in bave-sizes (3)" />
+        <item itemvalue="JUnit.All in bave-sizes (2)" />
         <item itemvalue="JUnit.All in bave-sizes (1)" />
-        <item itemvalue="JUnit.All in bave-sizes" />
-        <item itemvalue="JUnit.DoubleSeriesTest" />
-        <item itemvalue="JUnit.DoubleSeriesTest.getLengthAtLeast" />
-        <item itemvalue="JUnit.DoubleSeriesTest.copy" />
       </list>
     </recent_temporary>
   </component>
@@ -417,31 +436,17 @@
       <option name="project" value="LOCAL" />
       <updated>1554294862623</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update Projects 2019-04-01.">
+      <created>1554295261303</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554295261303</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DoubleSeriesTest_getLength - 2019.04.02 at 16h 26m 32s.xml">
-      <configuration name="DoubleSeriesTest.getLength" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DoubleSeriesTest_get - 2019.04.02 at 16h 30m 48s.xml">
-      <configuration name="DoubleSeriesTest.get" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DoubleSeriesTest_toList - 2019.04.02 at 16h 31m 38s.xml">
-      <configuration name="DoubleSeriesTest.toList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DoubleSeriesTest_toDoubleArray - 2019.04.02 at 16h 33m 13s.xml">
-      <configuration name="DoubleSeriesTest.toDoubleArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DoubleSeriesTest_toDoubleArray - 2019.04.02 at 16h 33m 48s.xml">
-      <configuration name="DoubleSeriesTest.toDoubleArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DoubleSeriesTest_copy - 2019.04.02 at 16h 36m 21s.xml">
-      <configuration name="DoubleSeriesTest.copy" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DoubleSeriesTest_getLengthAtLeast - 2019.04.02 at 16h 36m 31s.xml">
-      <configuration name="DoubleSeriesTest.getLengthAtLeast" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DoubleSeriesTest - 2019.04.02 at 16h 37m 11s.xml">
       <configuration name="DoubleSeriesTest" configurationId="JUnit" />
     </history-entry>
@@ -451,22 +456,44 @@
     <history-entry file="DoubleSeriesTest - 2019.04.02 at 21h 49m 04s.xml">
       <configuration name="DoubleSeriesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_bave-sizes - 2019.04.03 at 20h 39m 47s.xml">
+      <configuration name="All in bave-sizes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_bave-sizes_(1) - 2019.04.03 at 20h 40m 26s.xml">
+      <configuration name="All in bave-sizes (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_bave-sizes_(2) - 2019.04.03 at 20h 44m 50s.xml">
+      <configuration name="All in bave-sizes (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_bave-sizes_(3) - 2019.04.03 at 20h 45m 26s.xml">
+      <configuration name="All in bave-sizes (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleSeriesKtTest - 2019.04.03 at 22h 43m 39s.xml">
+      <configuration name="DoubleSeriesKtTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleSeriesKtTest_getLine - 2019.04.03 at 22h 45m 00s.xml">
+      <configuration name="DoubleSeriesKtTest.getLine" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleSeriesKtTest_getLine - 2019.04.03 at 22h 45m 20s.xml">
+      <configuration name="DoubleSeriesKtTest.getLine" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12120000" />
+    <option name="totallyTimeSpent" value="16391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2191689" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2191689" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8144476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -555,16 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2454">
-          <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
-          <folding>
-            <element signature="e#52#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/KotlinJavaRuntime/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1722">
@@ -612,13 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
           <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeries.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -703,6 +713,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/unit/FinenessUnit.kt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/unit/GramTest.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/scalar/SizeTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#55#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Java/JavaLib/Hipparchus/V1u4/hipparchus-core-1.4-sources.jar!/org/hipparchus/linear/RealMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10416">
+          <caret line="454" column="6" lean-forward="true" selection-start-line="454" selection-start-column="6" selection-end-line="454" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Java/JavaLib/Hipparchus/V1u4/hipparchus-core-1.4-sources.jar!/org/hipparchus/linear/RealVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeries.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+          <folding>
+            <element signature="e#88#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="60" column="44" lean-forward="true" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+          <folding>
+            <element signature="e#52#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise/DoubleSeriesKtTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="31" column="55" selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
