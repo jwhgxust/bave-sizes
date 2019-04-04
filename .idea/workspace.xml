@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c778811b-2702-43bd-b896-ee7c2932814a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/parabola/DoubleSeries.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,7 +16,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/parabola/DoubleSeries.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,12 +78,13 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/Sizes.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/SizesGroup.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/parabola/DoubleSeries.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="300" />
-    <option name="y" value="65" />
+    <option name="x" value="415" />
+    <option name="y" value="296" />
     <option name="width" value="1400" />
     <option name="height" value="970" />
   </component>
@@ -81,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -157,13 +170,95 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="textile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="textile" type="462c0819:PsiDirectoryNode" />
+              <item name="filature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="textile" type="462c0819:PsiDirectoryNode" />
+              <item name="filature" type="462c0819:PsiDirectoryNode" />
+              <item name="bave" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="textile" type="462c0819:PsiDirectoryNode" />
+              <item name="filature" type="462c0819:PsiDirectoryNode" />
+              <item name="bave" type="462c0819:PsiDirectoryNode" />
+              <item name="sizes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="textile" type="462c0819:PsiDirectoryNode" />
+              <item name="filature" type="462c0819:PsiDirectoryNode" />
+              <item name="bave" type="462c0819:PsiDirectoryNode" />
+              <item name="sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="textile" type="462c0819:PsiDirectoryNode" />
+              <item name="filature" type="462c0819:PsiDirectoryNode" />
+              <item name="bave" type="462c0819:PsiDirectoryNode" />
+              <item name="sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="regression" type="462c0819:PsiDirectoryNode" />
+              <item name="parabola" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="textile" type="462c0819:PsiDirectoryNode" />
+              <item name="filature" type="462c0819:PsiDirectoryNode" />
+              <item name="bave" type="462c0819:PsiDirectoryNode" />
+              <item name="sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="regression" type="462c0819:PsiDirectoryNode" />
+              <item name="stepwise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,7 +418,8 @@
       <workItem from="1554333937559" duration="313000" />
       <workItem from="1554334282983" duration="5380000" />
       <workItem from="1554347173974" duration="453000" />
-      <workItem from="1554358628526" duration="804000" />
+      <workItem from="1554358628526" duration="1448000" />
+      <workItem from="1554372196893" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="Create Projects 2019-04-01.">
       <created>1554182034409</created>
@@ -500,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554345425279</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update 2019-04-03.">
+      <created>1554361607492</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1554361607492</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -536,12 +639,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26556000" />
+    <option name="totallyTimeSpent" value="28419000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="332" y="237" width="1120" height="776" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21849866" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31073445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -578,17 +682,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update 2019-04-03." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/Placeholder.txt" />
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="55" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="13" />
-          <folding>
-            <element signature="e#52#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/KotlinJavaRuntime/kotlin-stdlib-sources.jar!/common/kotlin/collections/Maps.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-566">
@@ -854,13 +947,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/exception/UnitConversionException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/SizesGroup.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#68#266#0" expanded="true" />
+            <element signature="e#68#352#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/parabola/DoubleSeries.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
