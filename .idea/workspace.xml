@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c778811b-2702-43bd-b896-ee7c2932814a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/Sizes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/SizesGroup.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/Placeholder.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,44 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/SizesGroup.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="23" column="81" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
-              <folding>
-                <element signature="e#68#266#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/Sizes.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="59" selection-start-line="10" selection-start-column="100" selection-end-line="12" selection-end-column="59" />
-              <folding>
-                <element signature="e#68#347#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesGroup.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="61" />
-              <folding>
-                <element signature="e#52#212#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,16 +71,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="490" />
-    <option name="width" value="1945" />
-    <option name="height" value="560" />
+    <option name="x" value="300" />
+    <option name="y" value="65" />
+    <option name="width" value="1400" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,55 +92,25 @@
             <path>
               <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
               <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="literatures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
               <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="literatures" type="462c0819:PsiDirectoryNode" />
               <item name="textile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
               <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="literatures" type="462c0819:PsiDirectoryNode" />
               <item name="textile" type="462c0819:PsiDirectoryNode" />
               <item name="filature" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
               <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="literatures" type="462c0819:PsiDirectoryNode" />
               <item name="textile" type="462c0819:PsiDirectoryNode" />
               <item name="filature" type="462c0819:PsiDirectoryNode" />
               <item name="bave" type="462c0819:PsiDirectoryNode" />
@@ -188,14 +118,37 @@
             <path>
               <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
               <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="literatures" type="462c0819:PsiDirectoryNode" />
+              <item name="textile" type="462c0819:PsiDirectoryNode" />
+              <item name="filature" type="462c0819:PsiDirectoryNode" />
+              <item name="bave" type="462c0819:PsiDirectoryNode" />
+              <item name="sizses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="textile" type="462c0819:PsiDirectoryNode" />
-              <item name="filature" type="462c0819:PsiDirectoryNode" />
-              <item name="bave" type="462c0819:PsiDirectoryNode" />
-              <item name="sizes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
@@ -205,22 +158,11 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="series" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -237,7 +179,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31029412" />
@@ -249,6 +191,7 @@
       <recent name="cn.edu.gxust.jiweihuang.kotlin.util.series" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\kotlin\cn\edu\gxust\jiweihuang\kotlin\textile\filature\bave\sizes\regression\parabola" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\literatures\textile\filature" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\literatures\textile" />
     </key>
@@ -378,7 +321,9 @@
       <workItem from="1554211650507" duration="640000" />
       <workItem from="1554212319152" duration="1678000" />
       <workItem from="1554333937559" duration="313000" />
-      <workItem from="1554334282983" duration="5200000" />
+      <workItem from="1554334282983" duration="5380000" />
+      <workItem from="1554347173974" duration="453000" />
+      <workItem from="1554358628526" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="Create Projects 2019-04-01.">
       <created>1554182034409</created>
@@ -541,7 +486,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554337661658</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="update 2019-04-03.">
+      <created>1554345363442</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1554345363442</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update 2019-04-03.">
+      <created>1554345425279</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1554345425279</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -577,13 +536,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25119000" />
+    <option name="totallyTimeSpent" value="26556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17828418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21849866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -620,9 +578,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="update 2019-04-03." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/Placeholder.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/Placeholder.txt" />
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -640,12 +596,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/Placeholder.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/parabola/Placeholder.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/Placeholder.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/Placeholder.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/Placeholder.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -813,66 +767,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST10030.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST10010.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/ZJJX50_DTEX_100.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/GXRA200_DTEX_50.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/GXLC210_DTEX_50.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-4530" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/GXHX50_DTEX_100.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-690" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST30_DTEX_100.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-210" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST10_DTEX_100.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST10030.csv" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST10010.csv" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/ZJJX50_DTEX_100.csv" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/GXRA200_DTEX_50.csv" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/GXLC210_DTEX_50.csv" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/GXHX50_DTEX_100.csv" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST30_DTEX_100.csv" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sizes/data/TEST10_DTEX_100.csv" />
     <entry file="file://$PROJECT_DIR$/programs/kotlin/resources/textile/filature/bave/sizes/data/GXHX50_DTEX_100.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/KotlinJavaRuntime/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -949,8 +856,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/SizesGroup.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" column="81" selection-start-line="23" selection-start-column="81" selection-end-line="23" selection-end-column="81" />
+        <state relative-caret-position="384">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#68#266#0" expanded="true" />
           </folding>
