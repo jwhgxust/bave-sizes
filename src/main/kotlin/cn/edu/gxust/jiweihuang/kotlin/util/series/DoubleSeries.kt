@@ -2,6 +2,7 @@ package cn.edu.gxust.jiweihuang.kotlin.util.series
 
 import java.lang.Math.pow
 import java.lang.Math.sqrt
+import cn.edu.gxust.jiweihuang.kotlin.util.collections.fromString
 
 /**
  * The [DoubleSeries] is used for representing double numeric sequence with statistics and calculation.
@@ -34,6 +35,11 @@ open class DoubleSeries(dataList: List<Double>, val lengthAtLeast: Int = 2) : It
          * The minimum number of elements in series requested by internal implementation.
          */
         private const val lengthAtLeastImp: Int = 2
+
+
+        fun fromString(dataString: String, separator: String = "\\s+"): DoubleSeries {
+            return DoubleSeries(fromString(dataString, separator, true))
+        }
     }
 
     //==========================================================================================

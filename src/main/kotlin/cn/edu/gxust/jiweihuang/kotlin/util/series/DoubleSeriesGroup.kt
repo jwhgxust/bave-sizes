@@ -1,7 +1,10 @@
 package cn.edu.gxust.jiweihuang.kotlin.util.series
 
+import cn.edu.gxust.jiweihuang.kotlin.util.collections.fromString
+import java.io.BufferedReader
+import java.io.File
+import java.io.FileReader
 import java.util.*
-import java.util.function.Consumer
 
 open class DoubleSeriesGroup : Iterable<DoubleSeries> {
     //=================================================
@@ -10,6 +13,32 @@ open class DoubleSeriesGroup : Iterable<DoubleSeries> {
     //=================================================
     companion object {
         private var counter: Long = 0
+
+        fun fromFile(file: String, separator: String = "\\s+"): DoubleSeriesGroup {
+            val dsg = DoubleSeriesGroup()
+            val fileName = File(file)
+            var fileReader: FileReader? = null
+            var bufferedReader: BufferedReader? = null
+            try {
+                fileReader = FileReader(fileName)
+                bufferedReader = BufferedReader(fileReader)
+                try {
+                    var read: String? = null
+                    while ({ read = bufferedReader.readLine();read }() != null) {
+                        dsg.add(fromString(read!!, separator))
+                    }
+                } catch (e: Exception) {
+                    e.printStackTrace()
+                }
+
+            } catch (e: Exception) {
+                e.printStackTrace()
+            } finally {
+                bufferedReader?.close()
+                fileReader?.close()
+            }
+            return dsg
+        }
     }
 
     //=================================================
