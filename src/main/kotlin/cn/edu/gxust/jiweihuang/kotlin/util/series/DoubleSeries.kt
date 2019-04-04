@@ -2,7 +2,7 @@ package cn.edu.gxust.jiweihuang.kotlin.util.series
 
 import java.lang.Math.pow
 import java.lang.Math.sqrt
-import cn.edu.gxust.jiweihuang.kotlin.util.collections.fromString
+import cn.edu.gxust.jiweihuang.kotlin.util.collections.fromString as fromStringToList
 
 /**
  * The [DoubleSeries] is used for representing double numeric sequence with statistics and calculation.
@@ -37,8 +37,8 @@ open class DoubleSeries(dataList: List<Double>, val lengthAtLeast: Int = 2) : It
         private const val lengthAtLeastImp: Int = 2
 
 
-        fun fromString(dataString: String, separator: String = "\\s+"): DoubleSeries {
-            return DoubleSeries(fromString(dataString, separator, true))
+        fun fromString(dataString: String, separator: String = "\\s+", isIgnoreError: Boolean = true): DoubleSeries {
+            return DoubleSeries(fromStringToList(dataString, separator, isIgnoreError))
         }
     }
 
