@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c778811b-2702-43bd-b896-ee7c2932814a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/collections/List.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesGroup.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesGroup.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/Path.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,26 +17,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesGroup.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/Path.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="40" column="22" selection-end-line="144" selection-end-column="1" />
-              <folding>
-                <element signature="e#52#212#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeries.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="69" />
-              <folding>
-                <element signature="e#52#170#0" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-942" />
           </provider>
         </entry>
       </file>
@@ -147,26 +127,6 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-sizes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-sizes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="series" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -188,7 +148,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin/cn/edu/gxust/jiweihuang/kotlin/textile/filature/bave/sizes/regression/stepwise" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CD20190227/kotlin-textiles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31029412" />
@@ -207,11 +167,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\kotlin\cn\edu\gxust\jiweihuang\kotlin\util" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\programs\kotlin\resources" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\resources\sizes\data" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\resources" />
       <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\main\resources" />
-      <recent name="C:\Programmings\Github\CD20190401\bave-sizes\src\test\kotlin\cn\edu\gxust\jiweihuang\kotlin\textile" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,15 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DoubleSeriesKtTest.restore">
-    <configuration name="All in bave-sizes (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bave-sizes" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.cn.edu.gxust.jiweihuang.kotlin.util.PathKt">
     <configuration name="DoubleSeriesKtTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bave-sizes" />
       <extension name="coverage">
@@ -298,13 +250,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cn.edu.gxust.jiweihuang.kotlin.util.PathKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="bave-sizes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cn.edu.gxust.jiweihuang.kotlin.util.PathKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.cn.edu.gxust.jiweihuang.kotlin.util.PathKt" />
         <item itemvalue="JUnit.DoubleSeriesKtTest.restore" />
         <item itemvalue="JUnit.DoubleSeriesKtTest.regression" />
         <item itemvalue="JUnit.DoubleSeriesKtTest.getLine" />
         <item itemvalue="JUnit.DoubleSeriesKtTest" />
-        <item itemvalue="JUnit.All in bave-sizes (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +289,7 @@
       <workItem from="1554211650507" duration="640000" />
       <workItem from="1554212319152" duration="1678000" />
       <workItem from="1554333937559" duration="313000" />
-      <workItem from="1554334282983" duration="2801000" />
+      <workItem from="1554334282983" duration="3049000" />
     </task>
     <task id="LOCAL-00001" summary="Create Projects 2019-04-01.">
       <created>1554182034409</created>
@@ -459,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554335690106</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update 2019-04-03.">
+      <created>1554337171712</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554337171712</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -495,13 +467,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22720000" />
+    <option name="totallyTimeSpent" value="22968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17828418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17828418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -538,13 +510,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update 2019-04-03." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ReadMe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/ReadMe.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -847,12 +812,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/series/DoubleSeriesGroup.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="40" column="22" selection-end-line="144" selection-end-column="1" />
-          <folding>
-            <element signature="e#52#212#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-264">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/util/Path.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-942" />
       </provider>
     </entry>
   </component>
